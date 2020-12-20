@@ -1,4 +1,3 @@
-algorithms
-==========
+# 알고리즘 연습 기록
 
-Example to study algorithms.
+알고리즘 연습 웹사이트가 분산되어 있어서 불편! 모아서 기록하고자 만든 저장소.
