@@ -15,3 +15,4 @@
 | [디스크 컨트롤러](programmers.co.kr/디스크-컨트롤러.md)       | `heap` `priority_queue` |
 | [K번째수](programmers.co.kr/K번째수.md)                       | `sort`                  |
 | [모의고사](programmers.co.kr/모의고사.md)                     | `brute_force`           |
+| [정수 삼각형](programmers.co.kr/정수-삼각형.md)               | `dynamic_programming`   |
