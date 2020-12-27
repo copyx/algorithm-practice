@@ -13,3 +13,4 @@
 | [다리를 지나는 트럭](programmers.co.kr/다리를-지나는-트럭.md) | `queue`                 |
 | [더 맵게](programmers.co.kr/더-맵게.md)                       | `heap` `priority_queue` |
 | [디스크 컨트롤러](programmers.co.kr/디스크-컨트롤러.md)       | `heap` `priority_queue` |
+| [K번째수](programmers.co.kr/K번째수.md)                       | `sort`                  |
