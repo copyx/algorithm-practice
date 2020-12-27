@@ -12,3 +12,4 @@
 | [기능개발](programmers.co.kr/기능개발.md)                     | `queue`                 |
 | [다리를 지나는 트럭](programmers.co.kr/다리를-지나는-트럭.md) | `queue`                 |
 | [더 맵게](programmers.co.kr/더-맵게.md)                       | `heap` `priority_queue` |
+| [디스크 컨트롤러](programmers.co.kr/디스크-컨트롤러.md)       | `heap` `priority_queue` |
