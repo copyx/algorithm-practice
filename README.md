@@ -14,3 +14,4 @@
 | [더 맵게](programmers.co.kr/더-맵게.md)                       | `heap` `priority_queue` |
 | [디스크 컨트롤러](programmers.co.kr/디스크-컨트롤러.md)       | `heap` `priority_queue` |
 | [K번째수](programmers.co.kr/K번째수.md)                       | `sort`                  |
+| [모의고사](programmers.co.kr/모의고사.md)                     | `brute_force`           |
